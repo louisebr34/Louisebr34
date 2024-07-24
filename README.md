@@ -37,4 +37,4 @@
 </div>
 
 
-![snake animatiom](https://github.com/louisebr34/louisebr34/blob/output/github-contribuition-grid-snake-sgv)
+![snake animatiom](https://github.com/louisebr34/louisebr34/blob/output/github-contribuition-grid-snake.sgv)
