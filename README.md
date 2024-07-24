@@ -11,6 +11,8 @@
     
           
      ![Louisebr34 GitHub stats](https://github-readme-stats.vercel.app/api?username=louisebr34&theme=dark&show_icons=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louisebr34&layout=compact)](https://github.com/louisebr34/github-readme-stats)
+  
       
 <div style="display: inline_block"><br>
   <img align="center" alt="louise-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
