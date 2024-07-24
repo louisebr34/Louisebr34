@@ -21,7 +21,7 @@
   <img align="center" alt="louise-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-![snake animatiom](https://github.com/louisebr34/louisebr34/blob/output/github-contribuition-grid-snake-sgv)
+
 
 
 ##
@@ -35,3 +35,6 @@
   <a href="https://www.linkedin.com/in/louise-barbosa-chagas-006b07293/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+
+![snake animatiom](https://github.com/louisebr34/louisebr34/blob/output/github-contribuition-grid-snake-sgv)
