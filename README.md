@@ -7,8 +7,8 @@
 - 📫 contate-me no email: louisebrbs@gmail.com
 - 😄 Pronouns: Ela/dela
 
-<img width="42%"  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=louisebr34&theme=dark&show_icons=true) src="link">
-  <img width="50%"[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louisebr34&theme=dark&show_icons=true)](https://github.com/louisebr34&theme=dark&show_icons=true/github-readme-stats) src="link"> 
+<img width="42%"![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=louisebr34&theme=dark&show_icons=true)src="link">
+<img width="50%"[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louisebr34&theme=dark&show_icons=true)](https://github.com/louisebr34&theme=dark&show_icons=true/github-readme-stats) src="link"> 
     
 
 <div style="display: inline_block"><br>
