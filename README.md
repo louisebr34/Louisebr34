@@ -8,6 +8,7 @@
 - 😄 Pronouns: Ela/dela
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=louisebr34&theme=dark&show_icons=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=louisebr34)](https://github.com/louisebr34/github-readme-stats)
     
 
 <div style="display: inline_block"><br>
