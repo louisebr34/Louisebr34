@@ -21,6 +21,8 @@
   <img align="center" alt="louise-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
+![snake animatiom](https://github.com/louisebr34/louisebr34/blob/output/github-contribuition-grid-snake-sgv)
+
 
 ##
  
