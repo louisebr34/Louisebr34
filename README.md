@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Hoje trabalho com full stack
+- 🔭 Desenvolvedora full stack
 - 🌱 Estudando Typescript
 - 😄 Pronouns: Ela/dela
 
